@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeHall133
-- 👀 I’m interested in finding Python Developers 
+- 👀 I’m interested in finding Python and Java Developers 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to recruit strong devlopers into my client's roles
 - 📫 How to reach me j.hall@jeffersonfrank.com or 46101992698
